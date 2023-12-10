@@ -34,9 +34,9 @@ A DTBN-based Framework of Quantitative Safety Analysis for AADL Model
 
    *enter query statements by line -> OK -> the result will be generated under the folder `/reports`*
 
-![](https://github.com/AnonymizeA/QuanSafe/blob/main/img/start.png)
+![](https://github.com/Frank-ZYW/QuanSafe/blob/master/img/start.png)
 
-![](https://github.com/AnonymizeA/QuanSafe/blob/main/img/result.png)
+![](https://github.com/Frank-ZYW/QuanSafe/blob/master/img/result.png)
 
 ## Query statement
 
